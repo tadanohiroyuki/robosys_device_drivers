@@ -1,0 +1,13 @@
+#include <linux/module.h>
+
+statiN_INFO "%s is loaded.\n",__FILE_:);ジュールの初期化
+{
+i        return 0;
+}
+
+static void __exit cleanup_mod(void) //後始末
+{
+}
+
+module_init(init_mod);     // マクロで関数を登録
+module_exit(cleanup_mod);  // 同
