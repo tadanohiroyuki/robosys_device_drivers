@@ -9,5 +9,14 @@ RaspberryPi4を使用してLEDを光らせるためのデバイスドライバ�
 0.LEDを消灯させる
 1.LEDを点灯させる
 
+回路
+GPIO25とGNDの間にLEDを接続
+LEDのアノードをGPIO25につなぎGNDへ
+
+
+
+
+
+
 
 
