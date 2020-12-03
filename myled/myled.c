@@ -5,9 +5,9 @@
 #include <linux/uaccess.h>
 #include <linux/io.h>
 
-
-                                                                                                                  MODULE_AUTHOR("Ryuichi Ued and Tadano Hiroyuki");                                                                 MODULE_DESCRIPTION("driver for LED control");
-MODULE_LICENSE("MIT");
+MODULE_AUTHOR("Ryuichi Ued and Tadano Hiroyuki");                                                                 
+MODULE_DESCRIPTION("driver for LED control");
+MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
 
 static dev_t dev;
