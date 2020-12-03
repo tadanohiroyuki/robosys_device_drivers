@@ -9,6 +9,5 @@ RaspberryPi4を使用してLEDを光らせるためのデバイスドライバ�
 0.LEDを消灯させる
 1.LEDを点灯させる
 
-デモ動画
-https://youtu.be/0uwrV73nmxY
+
 
